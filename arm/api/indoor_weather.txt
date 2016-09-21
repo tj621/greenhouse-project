@@ -1,0 +1,18 @@
+湿度默认计量方式为相对湿度
+光照默认单位为照度
+二氧化碳单位为ppm
+
+
+PATH:/indoor
+response:
+{
+    "indoor": {
+        "node_0": {
+            "update_time": "2016-06-13 00:32:50",
+            "temperature": "20.0",
+            "humidity": "70.0",
+            "radiation": "20000",
+            "co2": "400"
+        }
+    }
+}
